@@ -1,0 +1,5 @@
+class-variance-authority: this package is used to create class variants for a same element
+
+clsx: its a tiny utility for creating conditional classes
+
+lucide-react: used of icons
